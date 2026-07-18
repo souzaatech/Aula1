@@ -1,0 +1,17 @@
+
+.caixatexto{font-size: 13px;
+color: rgb(24, 15, 158);
+padding-left: 13px;}
+
+.botao 
+{font-size: 13px;}
+
+.vermelho {
+    background-color:rgba(196, 68, 68, 0.932);
+}
+    .azul {
+        background-color: rgb(39, 39, 194);
+    }
+    .amarelo {
+        background-color: rgba(224, 224, 69, 0.911);
+    }
